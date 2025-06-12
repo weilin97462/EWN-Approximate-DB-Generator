@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15645369.svg)](https://doi.org/10.5281/zenodo.15645369)
 # EWN-Approximate-DB-Generator
 This code generates an approximate database for "Einstein Würfelt Nicht!".
 
